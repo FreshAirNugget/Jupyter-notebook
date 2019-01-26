@@ -1,0 +1,4 @@
+sqlalchemy
+lxml
+html5lib
+BeautifulSoup4
